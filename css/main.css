@@ -1,0 +1,70 @@
+/*** GENERAL ***/
+
+img {
+    max-width: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/*** HEADER ***/
+
+header {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+
+/*** NAVIGATION ***/
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+}
+
+
+/*** BODY ***/
+
+
+
+/*** FOOTER ***/
+
+footer {
+    text-align: center;
+}
+
+
+/* PAGE: PORTFOLIO */
+
+#gallery {
+    list-style: none;
+}
+
+
+/* COLORS */
+
+header {
+    background-color: #599a68;      /*light-ish green*/
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+nav a {
+    color: #fff;
+}
+
+.selected {
+    color: #32673f;     /*darker green*/ 
+}
